@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:12.04
 MAINTAINER King Mario <KingMario@qq.com>
 
 RUN apt-get update
